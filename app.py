@@ -62,6 +62,7 @@ def predict():
         soil_moisture = float(request.form['soil_moisture'])
 
         # Create a DataFrame from user input
+
         user_input = {
             'date': [date],
             'temperature': [temperature],
