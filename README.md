@@ -55,10 +55,10 @@ pip install -r requirements.txt
 1. Run the application:
 
 ```bash
-python app.py
+flask run
 ```
 
-2. Access the application through your web browser at `http://localhost:5000`.
+2. Access the application through your web browser at `http://127.0.0.1:5000`.
 
 ## Contributing
 
