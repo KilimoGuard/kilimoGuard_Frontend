@@ -1,4 +1,4 @@
-#!/Users/neemarhonnahmkenda/Desktop/kilimoGuard/venv/bin/python3
+#!/Users/michaelkhanda/Developer/kilimoGuard_Frontend/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
